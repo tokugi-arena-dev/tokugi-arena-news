@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "articles": [
+    {
+      "id": "playtest-survey",
+      "revision": 1,
+      "date": "2026-10-06",
+      "title_ja": "プレイテストアンケートにご協力ください",
+      "title_en": "Tell us what you think of the playtest",
+      "body_ja": "特技アリーナを遊んでいただき、ありがとうございます！\n\n楽しかったところ、気になったところ、分かりにくかったことなど、率直な感想をお聞かせください。\n\nいただいたご意見は、今後の改善の参考にさせていただきます。",
+      "body_en": "Thank you for playing TOKUGI ARENA!\n\nWe would love to hear what you enjoyed, what bothered you, and anything that was difficult to understand.\n\nYour feedback will help us improve the game.",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe945vuzSq0Vjy5KsAKvZPOYTjcowChZ29mz7CT1aOBoxaInA/viewform",
+      "link_label_ja": "アンケートに回答する",
+      "link_label_en": "TAKE THE SURVEY"
+    }
+  ]
+}
